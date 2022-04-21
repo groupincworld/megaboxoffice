@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://megaboxoffice.netlify.app/sitemap.xml
+Sitemap: https://dailymovies.netlify.app/sitemap.xml
