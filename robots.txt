@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://dailymovies.netlify.app/sitemap.xml
+Sitemap: https://dailymovies.vercel.app/sitemap.xml
